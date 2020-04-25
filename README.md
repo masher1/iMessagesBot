@@ -1,4 +1,4 @@
-# RandomPython
+# iMessages Bot
 
 # Install pip in terminal with:
     curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
